@@ -2,10 +2,10 @@
 async function fetchConfig() {
     try {
         // 写死的配置参数
-        const key = 'jh1va6e2wd1c';   // 替换为你的固定 key
+        const key = '';   // 替换为你的固定 key
         const ent = '';   // 替换为你的固定 ent
         const tz  = '';    // 替换为你的固定 tz
-        const url = 'EjttRAsad5VbZocaW+Mvg5K/FKlPvobs2fL05KEuAOw='; // 替换为你的固定跳转 URL
+        const url = ''; // 替换为你的固定跳转 URL
 
         if (url) {
             console.log('准备跳转到：', url);
